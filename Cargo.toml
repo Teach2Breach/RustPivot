@@ -1,3 +1,14 @@
+[package]
+name = "rustpivot"
+version = "0.1.1"
+authors = ["deadjakk"]
+description = "a socks proxy in rust"
+documentation = "https://github.com/Teach2Breach/RustPivot/README.md"
+license = "GPL-3.0-or-later"
+homepage = "https://github.com/Teach2Breach/RustPivot/"
+repository = "https://github.com/Teach2Breach/RustPivot/"
+edition = "2021"
+
 [workspace]
 members=[
     "client",
